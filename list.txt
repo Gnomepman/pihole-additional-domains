@@ -47,7 +47,6 @@ ads.x.com
 d.reddit.com
 pixel.quora.com
 imasdk.googleapis.com
-dai.google.commssl.fwmrm.net
 ssl.p.jwpcdn.com
 widget.intercom.io
 js.driftt.com
@@ -131,7 +130,6 @@ customer.io
 clevertap-prod.com
 dai.google.com
 mssl.fwmrm.net
-ads.microsoft.com
 liftoff.io
 pubmatic.com
 cdn.indexexchange.com
